@@ -1,5 +1,5 @@
 public class helloworld {
    public static void main(String[] args) {
-    System.out.println("Hello World and polled by jenkins");
+    System.out.println("Hello World and the build the trigger by webhook");
     }
 }
